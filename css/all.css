@@ -1,3 +1,9 @@
+:root {
+    --background: grey;
+    --accent1: darkgrey;
+    --accent2: lightgrey;
+}
+
 * {
     font-family: Arial, Helvetica, sans-serif;
 }
